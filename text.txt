@@ -1,0 +1,313 @@
+英语积累
+
+exposing region proposal computation as a bottleneck.
+
+促进
+facilitate 促进
+Improve 提升
+Enhance 
+strive 力求
+are prone to 倾向于
+it is desirable to 是值得的
+
+尽管
+Although
+Though
+Whereas 
+Nevertheless
+Nonetheless
+Despite
+In split of
+
+因为
+Due to=stem from=because=caused by
+
+获取
+Acquire 获取
+Obtain 
+Get
+abosorb
+Achieve
+Entail 需要，使得承受
+
+缓解
+alleviate 缓解
+Remedy 缓解
+mitigate 减轻，缓和
+circumvent 阻止
+
+阻碍
+impede 阻碍
+Hinder 阻碍
+hamper 损害
+diminish 减小
+Diminish returns in terms of performance 减小表现的提升
+
+副词
+incrementally 递增的
+diametrically 完全地
+simultaneously同时地
+drastically 剧烈地
+Substantially 重大的
+Explicitly 显式地
+Partially 部分地
+ typically 通常
+essentially 本质上
+Thoroughly 完全地，彻底地
+subsequently 随后
+Exponentially 指数地
+criteria 清楚地
+Proverbially 众所周知的
+theoretically 理论上
+Adequately 充分地
+concurrently 同时地
+exhaustively 彻底地
+Concretely 具体来说
+intensively analysis 集中分析
+
+形容词
+Foregoing 上述的
+prevailing 普遍的
+identical 完全相同的
+predominant 显著的
+ nominally 徒有其名地
+feasible 可行的
+essential 必须的
+Analogues 相似的
+doable 可行的
+Noticeable 值得注意的
+
+开头
+Originally developed in 最初在
+thanks to 归功于
+To our knowledge 据我们所知
+Start by 开始
+Nevertheless 尽管如此
+to this end 直到最后，为此目的
+solely due to仅仅因为
+whereas 尽管，然后，表转折
+all the way 始终上
+in likewise 相同地
+To date 到目前为止
+As the same time 与此同时
+In response 作为解答
+
+动词
+Anneal to 退火到
+inherit 继承
+comstitute 构成
+manipulate 控制
+conjecture 猜想
+ synthesize 综合
+Elicit 引出
+probe 探索
+tighten 加强
+trigger 触发
+gauge 校准，测量
+circumvent 避免
+obviate 排除
+Incur  承受
+Resort 依靠
+untangle 清理
+decompose 分解
+Plug in 输入
+Synthesize 综合
+Prepend 预置
+preclude 排除
+replus 排斥
+alternate 交替
+Compensate 补偿
+Pave 铺垫
+veil 掩盖
+tease apart 梳理
+manipulation=operation 操作
+
+使自由
+Free
+Unleash
+Decouple
+
+
+Differentiate 区分
+Distinguish 
+distinct from 
+
+探讨
+Delve 探讨
+Suspect 推测
+
+
+好的
+Moderately 适度的
+compelling 令人信服的
+striking 亮眼的
+ giant 巨大的
+ intriguing 非常有趣的
+Salient  	突出的，重要的
+vital 至关重要的
+ conducive 有益的
+Remarkable 卓越的
+pivotal 关键性的
+Promising 有希望的
+Unigorable 值得注意的
+optimal最优的
+comparably good 良好的
+plausible 有道理的
+Trendy 潮流的
+considerable 非常大的
+Substantial 非常大的
+ instrumental 起作用的
+noteworthy 值得注意的
+Prominate 重要的
+Decent 好的
+prevalence 流行，卓越
+Innovative 创新性的
+
+
+不好的
+scarce 缺少的
+Laborious 耗时的
+fatal 致命的
+tedious 冗长的
+notorious 声名狼藉的
+ extraneous 无关的
+vanilla 普通的
+ impractically 不切实际地
+dilemma 困境
+Intractable 不好对付的，难处理的
+Deteriorate 退化
+ambiguous 模糊的，不清楚的
+
+忽视
+Ignore 
+Neglect
+Disregard 轻视
+
+数量
+dozen 很多的
+A number of 
+Numerous 很多的
+Plenty of 
+a suite of 一套
+diverse 多种多样的
+Finite 有限的
+
+几乎
+Nearly
+Almost 
+
+名词
+pioneer 先锋
+Trade-off 取舍
+Facet 方面
+A toy example
+Variants 变体
+oracle 见解
+Perturbation = interfere 干扰
+
+
+driven by the motivation
+The latest incarnation 最近的版本
+ultimate goal 最终的目标
+promissing result 有希望的结果
+mechanism 方法，结构
+serve as 作为
+Identical  完全相同的
+ coefficient 系数
+A variety of 各种各样的 
+waives nearly all computational burdens  免除了几乎所有负担
+xx is an order of magnitude 慢一个数量级
+involving涉及
+reformulate  重新制定
+Arise 提出
+suggesting 
+Be akin to 类似于
+phenomena现象
+Respect to
+Can be formulated to 表示为
+suboptimal 次优的
+vice versa 反之亦然
+incentive 动机
+are penalized to be distinguished from each other
+versatility 多样性
+Empirical study
+Is accomplished via ..
+Orthogonal to these prior works 不同于先前工作
+Template 模版
+induce 引发
+The extension is nontrivial 这个扩展不平凡
+ barely visited question 很少被探索
+are also of great importance 是重要的
+Apart from 除了
+ language-compatible 语言兼容的
+retains sufficient spatial information 保留足够的空间信息
+action behave serve 作为
+sophisticated 复杂的
+Shift the tradition 背离了传统
+deploy this models in practice 在实践中部署这样的模型
+domain expertise 领域专业知识
+automated 自动化
+ closed-set 封闭集的
+exemplified 举例说明
+encompass 包围
+seamless 无缝的
+apparent  明显的
+syntactic 句法的
+inherent capability 固有的能力
+viable 可实施的
+commonsense 常识的
+susceptible 易受影响的
+ artificially 人为的
+Notation 符号
+ desired information 所需信息
+Devise 制定
+hints 提示
+Loosely resemble 关联
+rephrase 换个说法
+intuitive interface 直观的界面
+Consequently 因此
+Handcraft 手工制作的
+together with 联合
+adversarial 对立的
+ inherently continuous 本质上连续
+stereotype 刻板印象
+ nothing short of a panacea 灵丹妙药
+behind the prosperity 在这些繁荣背后
+As a substitution 作为一个替代
+steer 引导
+volatile 易变的
+Non-invasive modifications 变化不大的修改
+endeavor 努力
+ towards 朝着
+spurious correlations 伪相关
+exaggerate 夸大
+inferior 不如
+ever-shrinking role 不断萎缩的作用
+manipulte 操纵
+stereotypical 典型的
+ lay out 布局
+emcompass 包含，围绕
+nonetheless=nevertheless 尽管如此
+invariably 始终不变的
+flavor 特点
+Along this dimension 沿着这个维度
+lay the foundation 奠定基础 促进创新
+along the same tangent 沿着这个切线
+is deemed to be 被认为是
+immense 巨大的
+seamless 无缝的
+Customized 定制的
+attribute 属性
+Coherency 一致性
+schema 模式
+reasoning speed  推理速度
+Penalize 惩罚 
+latency 延迟
+arbitrary 任意的
+shortcoming 缺点
+oretical analysis 理性分析 
+Efficacy 效力
+is popularized 被推广
+owning to their
+mutual 相互的
+Long-standing 长期存在的
